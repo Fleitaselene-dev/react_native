@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "my-expo-app",
+    "scheme": "my-expo-app",
+    "slug": "my-expo-app",
+    "version": "1.0.0",
+    "web": {
+    },
+    "experiments": {
+      "tsconfigPaths": true
+    },
+    "plugins": ["expo-router"],
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+    }
+  }
+}
