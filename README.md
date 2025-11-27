@@ -29,8 +29,8 @@ Pasos:
 1. Clona el repositorio y accede a la carpeta:
 
     ```
-    git clone
-    cd 
+    git clone https://github.com/Fleitaselene-dev/react_native.git
+    cd react_native.git
     ```
 
 2. Instala dependencias:
